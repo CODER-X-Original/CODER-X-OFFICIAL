@@ -11,5 +11,4 @@
 ### - 🤔 I’m looking for help with ... experts
 ### - 💬 Ask me about ... python or any other language
 ### - 📫 How to reach me: ... hamzaali.tls@gmail.com
-### - ⚡ Fun fact: ... If you want to know the language which I ddidn't know I can help you by telling an github account working on the language you need
-### -->
+
