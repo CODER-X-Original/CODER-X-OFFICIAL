@@ -5,7 +5,7 @@
 ### - 🧐 Want to know about My profile
 
 
-### - 🔭 I’m in intermediate level in and currently working on ... Python
+### - 🔭 I’m in intermediate level and currently working on ... Python
 ### - 🌱 I’m currently learning ... Python
 ### - 👯 I’m looking to collaborate on ... Anthrosoft 
 ### - 🤔 I’m looking for help with ... experts of python
