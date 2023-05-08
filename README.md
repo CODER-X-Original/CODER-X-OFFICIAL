@@ -9,6 +9,6 @@
 ### - 🌱 I’m currently learning ... Python
 ### - 👯 I’m looking to collaborate on ... Anthrosoft 
 ### - 🤔 I’m looking for help with ... experts of python
-### - 💬 Ask me about ... python or any other language
+### - 💬 Ask me about ... python language
 ### - 📫 How to reach me: ... hamzaali.tls@gmail.com
 
